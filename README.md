@@ -1,7 +1,7 @@
 # SIVP_cell_tracking
 These two scripts are used to track and analyse endothelial cell (EC) migration during SIVP development.
 
-Cell migratory statistics were obtained from TrackMate, Fiji, including Track statistics, Links in tracks statistics (referred as **links file**), and Spots in tracks statistics (referred as **spots file**). 
+Cell migratory statistics were obtained from TrackMate (Tinevez et al., 2017), Fiji, including Track statistics, Links in tracks statistics (referred as **links file**), and Spots in tracks statistics (referred as **spots file**). 
 
 - Every individual EC traced was represented as an individual track (including daughter cells) which was given a distinct ID number. 
 - The links of a given cell at two consecutive time points were listed in links file. 
