@@ -16,7 +16,7 @@ Cell migratory statistics were obtained from TrackMate (Tinevez et al., 2017), F
 
 - Noted that the script was run for a single experimental repeat at a time, therefore users would need to change file names accordingly for different repeats.
 
-## Script2
+## Script 2
 - Script 2 helped to analyse **cell migration direction** in every step, providing **scatter plots** of cell steps in one control and one tnnt2a repeat, generating a **polar histogram** of cell migration steps (including all control or tnnt2a repeats), as well as the **values** of the polar histogram. 
 
 - This script included two sections.
@@ -27,7 +27,7 @@ Cell migratory statistics were obtained from TrackMate (Tinevez et al., 2017), F
 - - Users were asked to type in **input file names** and **output file names**, **column locations** in the **output** spread sheet for data to be written in and the **number of repeat**. 
 
 - The second section was for plotting, including **scatter plots** and **polar histogram plots**. 
-- User may need to customise the **title** and **colour** of the figures.
+- - User may need to customise the **title** and **colour** of the figures.
 
 ## Reference
 Tinevez, JY.; Perry, N. & Schindelin, J. et al. (2017), "TrackMate: An open and extensible platform for single-particle tracking.", Methods 115: 80-90, PMID 27713081 (on Google Scholar).
