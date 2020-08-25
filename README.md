@@ -26,8 +26,8 @@ Cell migratory statistics were obtained from TrackMate (Tinevez et al., 2017), F
 - - To run this section, values of **step delta x** and **delta y** were required, which were obtained from **script 1**. 
 - - Users were asked to type in **input file names** and **output file names**, **column locations** in the **output** spread sheet for data to be written in and the **number of repeat**. 
 
-- The second section was for plotting, including**scatter plots** and **polar histogram plots**. 
-- User may need to customise the title and the colour of the figures.
+- The second section was for plotting, including **scatter plots** and **polar histogram plots**. 
+- User may need to customise the **title** and **colour** of the figures.
 
 ## Reference
 Tinevez, JY.; Perry, N. & Schindelin, J. et al. (2017), "TrackMate: An open and extensible platform for single-particle tracking.", Methods 115: 80-90, PMID 27713081 (on Google Scholar).
