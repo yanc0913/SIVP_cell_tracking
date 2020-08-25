@@ -29,3 +29,5 @@ Cell migratory statistics were obtained from TrackMate (Tinevez et al., 2017), F
 - The second section was for plotting, including**scatter plots** and **polar histogram plots**. 
 - User may need to customise the title and the colour of the figures.
 
+## Reference
+Tinevez, JY.; Perry, N. & Schindelin, J. et al. (2017), "TrackMate: An open and extensible platform for single-particle tracking.", Methods 115: 80-90, PMID 27713081 (on Google Scholar).
